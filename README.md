@@ -1,10 +1,10 @@
-## 🍼 ML for Pregnancy Prediction
+## ML for Pregnancy Prediction
 
 This project aims to develop a machine learning model that predicts the likelihood of pregnancy based on health survey data. It leverages feature engineering and model training techniques to improve prediction accuracy. Key tools used include CatBoost, Pandas, Jupyter Notebook, and Conda for environment management.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ML-for-pregnancy-prediction/
@@ -24,7 +24,7 @@ ML-for-pregnancy-prediction/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. **Set Up the Environment**
 
